@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "2b916faa8a2a0d8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c93ddec02e8e258",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Computer Basics/Computer Basics.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "91815fb4ae8cf819",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c090fbfda722457",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cfefd56f73f27e78",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "56eec9bbc8a34001",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "59fc27ea5ed8a891",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ec454b991d474ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc5b4ee4a43696cb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Computer Basics/Computer Basics.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "9c93ddec02e8e258",
+  "lastOpenFiles": [
+    "Computer Basics/Computer Basics.md",
+    "python/Python_Basics.md",
+    "python/Python basics for studpid people.md",
+    "python/Articles_tutorial_and_links.md",
+    "CPP/OOP.md",
+    "CPP/Array.md",
+    "CPP/Basics.md",
+    "Programming/Basics.md"
+  ]
+}
